@@ -1,0 +1,12 @@
+1 Que es una base de datos relacional
+
+Es una base de datos que almacena y proporciona acceso a los datos de tablas relacionados entre si, y estan formados
+por tablas compuestas de filas y columnas
+
+2 Que es DML
+
+Data Management Language Ej:CREATE ALTER
+
+3 Que es DDL
+
+Data Definition Language Ej:SELECT, INSERT
