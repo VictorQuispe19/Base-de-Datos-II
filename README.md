@@ -49,21 +49,32 @@ Continua
 ```sh
 https://github.com/VictorQuispe19/Base-de-Datos-II/tree/main/Hito3/CONTINUA
 ```
-
+## 📖 Hito 4
+Contenido
+```sh
+https://github.com/VictorQuispe19/Base-de-Datos-II/tree/main/Hito4
+```
+## 🚀 Defensa Hito 4
+Procesual
+```sh
+https://github.com/VictorQuispe19/Base-de-Datos-II/tree/main/Hito4/PROCESUAL
+```
 ## 📖 Lenguaje de programacion
 
-El lenguaje que se utiliza es SQL
+El lenguaje que se utiliza es MySQL
 
 ## 📖 Programa en el que se desarrollan estos ejercicios
 
 Es necesario tener los programas 
 
 ```sh
-SQL Server Management Studio
+Datagrip
 ```
-
+```sh
+MariaDb
+```
 ## 👤 Autor
 
 **Victor Hugo Quispe Torrez**
 
-Copyright © 2022 
+Copyright © 2023 
